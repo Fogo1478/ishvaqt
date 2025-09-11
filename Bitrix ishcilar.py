@@ -11,8 +11,8 @@ from oauth2client.service_account import ServiceAccountCredentials
 from collections import defaultdict
 
 # 🔐 TOKEN va ID lar
-TOKEN = "8284461914:AAEv7aoHgMfrViKpQkIGxm1lJxqIyrIZ1Wc"
-admin_id = 7530522892
+TOKEN = "7759525886:AAFzhnBmE5FT3LVAn1Vh2V6dUud4KntshX4"
+admin_id = 2028247200
 log_chat_id = -1002143893100  # Guruh loglar uchun
 
 # Google Sheets ulanish
@@ -278,3 +278,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
